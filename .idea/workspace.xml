@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb0bfc1d-f9fe-4618-9de8-622b221b3a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tuple_python.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
