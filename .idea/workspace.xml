@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb0bfc1d-f9fe-4618-9de8-622b221b3a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_with_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_with_arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_with_arguments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
