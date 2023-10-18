@@ -28,12 +28,9 @@ print(phone_no)
 phone_no["ram"] = "1111"
 print(phone_no)
 
-
-
-
 emp = {
-    "ram":{"phone":1111, "work":"developer"},
-    "shyam":"222",
+    "ram": {"phone": 1111, "work": "developer"},
+    "shyam": "222",
 }
 print(emp["ram"]["work"])
 print(emp.get("ram").get("work"))
